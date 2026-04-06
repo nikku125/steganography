@@ -1,0 +1,4 @@
+streamlit
+Pillow
+pycryptodome
+numpy
